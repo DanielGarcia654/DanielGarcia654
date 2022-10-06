@@ -2,6 +2,14 @@
 
 Im' actually learning programming, I have the support of PROTECO in UNAM 
 <image src=https://imgur.com/qa6nOik.png align="right" width="100" height="100" />
+
+- Mexican 🇲🇽
+- Gamer 🎮
+- Student 🎓
+- 19 years.
+
+Here the languages actually working on:
+<image src=https://imgur.com/YJNvUox.png width="100" height="100" /> <image src=https://imgur.com/fButcec.png width="100" height="100" /> 
 <!--
 **DanielGarcia654/DanielGarcia654** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
