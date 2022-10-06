@@ -10,7 +10,7 @@ Im' actually learning programming, I have the support of PROTECO in UNAM
 
 Here the languages actually working on:
 <p>
-<image src=https://imgur.com/YJNvUox.png width="80" height="80" /> &nbsp; <image src=https://imgur.com/fButcec.png width="110" height="110" /> <br /> <image src=https://imgur.com/NMxZFrU.png height="80" /> <br /> <image src=https://imgur.com/7p9x9HV.png width="80" height="80" />
+<image src=https://imgur.com/YJNvUox.png width="80" height="80" /> &nbsp; <image src=https://imgur.com/fButcec.png width="110" height="110" /> &nbsp; <image src=https://imgur.com/NMxZFrU.png height="80" /> &nbsp; <image src=https://imgur.com/7p9x9HV.png width="80" height="80" />
 </p>
 
   <!--
