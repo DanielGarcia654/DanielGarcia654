@@ -1,7 +1,7 @@
 ### Hi, I'm *Daniel Garcia.* :bowtie: 
 
 Im' actually learning programming, I have the support of PROTECO in UNAM 
-<image src=https://imgur.com/qa6nOik.png>
+<image src=https://imgur.com/qa6nOik.png width="100" height="100">
 <!--
 **DanielGarcia654/DanielGarcia654** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
