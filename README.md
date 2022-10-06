@@ -1,6 +1,6 @@
 ### Hi, I'm *Daniel Garcia.* :bowtie: 
 
-Im' actually learning programming, I have the support of PROTECO in UNAM 
+I'm actually learning programming, I have the support of PROTECO in UNAM 
 <image src=https://imgur.com/qa6nOik.png align="right" width="100" height="100" />
 
 - Mexican 🇲🇽
