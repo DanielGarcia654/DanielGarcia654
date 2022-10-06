@@ -9,8 +9,10 @@ Im' actually learning programming, I have the support of PROTECO in UNAM
 - 19 years.
 
 Here the languages actually working on:
-<image src=https://imgur.com/YJNvUox.png width="100" height="100" /> <image src=https://imgur.com/fButcec.png width="100" height="100" /> 
-<!--
+<p>
+<image src=https://imgur.com/YJNvUox.png width="80" height="80" /> <image src=https://imgur.com/fButcec.png width="100" height="100" /> 
+</p>
+  <!--
 **DanielGarcia654/DanielGarcia654** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
