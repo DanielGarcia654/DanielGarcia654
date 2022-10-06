@@ -1,6 +1,6 @@
 ### Hi, I'm *Daniel Garcia.* :bowtie: 
 
-Im' actually learning programming, I have the support of PROTECO in UNAM ![img](https://imgur.com/qa6nOik.png)
+Im' actually learning programming, I have the support of PROTECO in UNAM ![img](https://imgur.com/qa6nOik.png) :height: 100
 <!--
 **DanielGarcia654/DanielGarcia654** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
