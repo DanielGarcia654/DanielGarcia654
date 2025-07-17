@@ -32,7 +32,7 @@ Here are some technologies and languages I’ve been working with:
   <img src="https://imgur.com/7p9x9HV.png" width="80" height="80" alt="Linux" />
 </p>
 
-- 🔌 Diseño de PCBs con herramientas como 
+- 🔌 Diseño de PCBs con herramientas como Autodesk Fusion
 - ⚙️ Programación de microcontroladores (ESP32 con FreeRTOS / Arduino)  
 - 🐳 Administración de contenedores Docker  
 - 📡 Comunicación serial, I2C, SPI y periféricos electrónicos  
