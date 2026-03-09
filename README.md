@@ -33,8 +33,7 @@ Here are some technologies and languages I’ve been working with:
 </p>
 
 - 🔌 Diseño de PCBs con herramientas como Autodesk Fusion
-- ⚙️ Programación de microcontroladores (ESP32 con FreeRTOS / Arduino)  
-- 🐳 Administración de contenedores Docker  
+- ⚙️ Programación de microcontroladores (ESP32 con FreeRTOS / Arduino)   
 - 📡 Comunicación serial, I2C, SPI y periféricos electrónicos  
 - 🌐 Uso de Linux para desarrollo, automatización y despliegue de servidores  
 
