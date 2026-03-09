@@ -12,9 +12,9 @@ I’ve been part of **PROTECO**, a program that has strengthened my skills in de
  
 - 🇲🇽 Mexicano / Mexican  
 - 🎓 Estudiante de Ingeniería en Computación en la **UNAM**
-- ⚡ Apasionado por los sistemas embebidos, hardware y electrónica  
+- ⚡ Apasionado por los sistemas embebidos, hardware y desarrollo de software 
 - 🧠 Aprendiendo sobre microcontroladores multinúcleo (ESP32), diseño de PCBs y circuitos eléctricos
-- 🖥️ Administrando un servidor de Minecraft con Docker y plugins personalizados para monetización  
+- 🖥️ Creando páginas web e involucrandome en proyectos
 - 🎮 Gamer en mis tiempos libres
 - 📚 Aprendiendo nuevas tecnologías constantemente  
 
